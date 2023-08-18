@@ -1,0 +1,25 @@
+{
+    "chain_name": "mun",
+    "coingecko": "",
+    "api": ["https://mainnet1.mun.money"],
+    "rpc": ["https://mainnet1rpc.mun.money"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "mun",
+    "logo": "/logos/mun.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "keplr_price_step": {
+      "low": 0.0125,
+      "average": 0.025,
+      "high": 0.05
+    },
+    "assets": [{
+        "base": "umun",
+        "symbol": "MUN",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/mun.png"
+    }]
+}
