@@ -35,7 +35,7 @@ const changeOpen = (index: Number) => {
     sidebarOpen.value = !sidebarOpen.value;
   }
 };
-const showDiscord = window.location.host.search('ping.pub') > -1;
+const showDiscord = window.location.host.search('kynraze') > -1;
 
 function isNavGroup(nav: VerticalNavItems | any): nav is NavGroup {
    return (<NavGroup>nav).children !== undefined;
@@ -61,7 +61,7 @@ function selected(route: any, nav: NavLink) {
     >
       <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
-          <img class="w-10 h-10" src="../../assets/logo.svg" />
+          <img class="w-10 h-10" src="../../assets/kyn2.png" />
           <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
             Kyn Explorer
           </h1>
