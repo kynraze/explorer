@@ -23,7 +23,7 @@ function changeEndpoint(item: Endpoint) {
       <div class="flex-1 w-0">
         <div
           :key="
-            baseStore.latest?.block?.header?.height ||
+            baseStore.latest?.block?.header?.chain_id ||
             chainStore.chainName ||
             ''
           "
