@@ -205,8 +205,10 @@ function selected(route: any, nav: NavLink) {
         </div>
       </div>
 
+       <div class="px-2">
+
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">{{ $t('module.links') }}</div>
-      <a
+        <a
           href="https://kynraze.com"
           target="_blank"
           class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
@@ -216,18 +218,6 @@ function selected(route: any, nav: NavLink) {
             class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
           >
             Website
-          </div>
-        </a>
-        <a
-          href="https://twitter.com/ping_pub"
-          target="_blank"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-          <Icon icon="mdi:twitter" class="text-xl mr-2" />
-          <div
-            class="text-base capitalize flex-1 text-gray-600 dark:text-gray-200"
-          >
-            Twitter
           </div>
         </a>
         <a
