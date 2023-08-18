@@ -1,5 +1,5 @@
 {
-    "chain_name": "Router",
+    "chain_name": "router",
     "api": ["https://lcd.testnet.routerchain.dev"],
     "rpc": ["https://tm.rpc.testnet.routerchain.dev"],
     "snapshot_provider": "",
