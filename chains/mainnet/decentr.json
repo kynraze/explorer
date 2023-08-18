@@ -1,0 +1,25 @@
+{
+    "chain_name": "decentr",
+    "coingecko": "decentr",
+    "api": ["https://rest.cosmos.directory/decentr"],
+    "rpc": ["https://decentr-rpc.kynraze.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "decentr",
+    "logo": "/logos/decentr.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "keplr_price_step": {
+      "low": 0.0125,
+      "average": 0.025,
+      "high": 0.05
+    },
+    "assets": [{
+        "base": "udec",
+        "symbol": "DEC",
+        "exponent": "6",
+        "coingecko_id": "decentr",
+        "logo": "/logos/decentr.png"
+    }]
+}

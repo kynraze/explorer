@@ -1,0 +1,26 @@
+{
+    "chain_name": "quasar",
+    "coingecko": "",
+    "api": ["https://rest.cosmos.directory/quasar",""],
+    "rpc": ["https://rpc.cosmos.directory/quasar"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.14",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "quasar",
+    "logo": "/logos/quasar.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "keplr_price_step": {
+      "low": 0.0125,
+      "average": 0.025,
+      "high": 0.05
+    },
+    "assets": [
+      {
+        "base": "uqsr",
+        "symbol": "QSR",
+        "exponent": "6",
+        "logo": "/logos/quasar.png"
+      }
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+    "chain_name": "Arkhadian",
+    "coingecko": "",
+    "api": ["https://rest.cosmos.directory/arkh"],
+    "rpc": ["https://arkh-rpc.kynraze.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.44.5",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "arkh",
+    "logo": "/logos/arkhadian.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+     "keplr_price_step": {
+        "low": 0.01,
+        "average": 0.025,
+        "high": 0.03
+      },
+    "keplr_staking_tokens": [
+      {
+        "denom": "arkh"
+      }
+    ],
+    "assets": [{
+        "base": "arkh",
+        "symbol": "ARKH",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/arkhadian.png"
+    },
+    {
+        "base": "stake",
+        "symbol": "STAKE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/arkhadian.png"
+    }]
+}

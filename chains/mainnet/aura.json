@@ -1,0 +1,27 @@
+{
+    "chain_name": "Aura",
+    "api":[
+           "https://rest.cosmos.directory/aura",
+           "https://aura-api.kynraze.com",
+           "https://lcd.aura.network"
+          ],
+    "rpc":[
+           "https://rpc.cosmos.directory/aura",
+           "https://aura-rpc.kynraze.com",
+           "https://rpc.aura.network"
+         ],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.1",
+    "coin_type": 118,
+    "min_tx_fee": "5000",
+    "addr_prefix": "aura",
+    "logo": "/logos/aura.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "assets": [{
+        "base": "uaura",
+        "symbol": "AURA",
+        "exponent": 6,
+        "coingecko_id": "aura-network",
+        "logo": "/logos/aura.png"
+    }]
+}

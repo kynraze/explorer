@@ -1,0 +1,25 @@
+{
+    "chain_name": "lumenx",
+    "coingecko": "",
+    "api": ["https://lumenx-api.kynraze.com"],
+    "rpc": ["https://lumenx-rpc.kynraze.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.11",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "lumen",
+    "logo": "/logos/lumen.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "keplr_price_step": {
+      "low": 0.0125,
+      "average": 0.025,
+      "high": 0.05
+    },
+    "assets": [{
+        "base": "ulumen",
+        "symbol": "LUMEN",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/lumen.png"
+    }]
+}

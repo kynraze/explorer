@@ -1,0 +1,26 @@
+{
+    "chain_name": "composable",
+    "coingecko": "",
+    "api": ["https://api.composable.nodestake.top","https://rest.cosmos.directory/composable"],
+    "rpc": ["https://rpc.cosmos.directory/composable"],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.3",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "centauri",
+    "logo": "/logos/composable.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "keplr_price_step": {
+      "low": 0.0125,
+      "average": 0.025,
+      "high": 0.05
+    },
+    "assets": [
+      {
+        "base": "ppica",
+        "symbol": "PICA",
+        "exponent": "12",
+        "logo": "/logos/composable.png"
+      }
+    ]
+  }
