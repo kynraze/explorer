@@ -10,6 +10,7 @@
     "addr_prefix": "centauri",
     "logo": "/logos/composable.png",
     "keplr_features": ["ibc-transfer", "ibc-go"],
+    "coingecko_id": "picasso",
     "keplr_price_step": {
       "low": 0.0125,
       "average": 0.025,
@@ -20,6 +21,7 @@
         "base": "ppica",
         "symbol": "PICA",
         "exponent": "12",
+        "coingecko_id": "picasso",
         "logo": "/logos/composable.png"
       }
     ]
