@@ -1,7 +1,7 @@
 {
     "chain_name": "router",
-    "api": ["https://lcd.testnet.routerchain.dev"],
-    "rpc": ["https://tm.rpc.testnet.routerchain.dev"],
+    "api": ["https://lcd.testnet.routerchain.dev","https://api-router.nodeist.net"],
+    "rpc": ["https://tm.rpc.testnet.routerchain.dev","https://rpc-router.nodeist.net"],
     "snapshot_provider": "",
     "sdk_version": "0.46.8",
     "coin_type": "60",
