@@ -1,0 +1,20 @@
+{
+    "chain_name": "kynraze",
+    "coingecko": "",
+    "api": ["https://rollapp-kyn-api.kynraze.com"],
+    "rpc": ["https://rollapp-kyn-rpc.kynraze.com"],
+    "sdk_version": "0.46.13",
+    "coin_type": 60,
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "ethm",
+    "logo": "/logos/kynraze.png",
+    "assets": [
+      {
+        "base": "uKYN",
+        "symbol": "KYN",
+        "exponent": 18,
+        "coingecko_id": "",
+        "logo": "/logos/kynraze.png"
+      }
+    ]
+}
