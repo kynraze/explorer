@@ -1,8 +1,8 @@
 {
     "chain_name": "self",
     "coingecko": "",
-    "api": ["https://api-devnet.selfchain.xyz"],
-    "rpc": ["https://rpc-devnet.selfchain.xyz"],
+    "api": ["https://test-self-api.kynraze.com","https://api-devnet.selfchain.xyz"],
+    "rpc": ["https://test-self-rpc.kynraze.com","https://rpc-devnet.selfchain.xyz"],
     "sdk_version": "0.46.13",
     "coin_type": 118,
     "min_tx_fee": "5000",
