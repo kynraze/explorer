@@ -1,8 +1,8 @@
 {
     "chain_name": "entangle",
     "coingecko": "",
-    "api": ["http://45.67.217.11:1317"],
-    "rpc": ["http://45.67.217.11:26657"],
+    "api": ["https://test-entangle-api.kynraze.com"],
+    "rpc": ["https://test-entangle-rpc.kynraze.com"],
     "sdk_version": "0.46.13",
     "coin_type": 60,
     "min_tx_fee": "5000000000000000",
