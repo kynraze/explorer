@@ -1,0 +1,19 @@
+{
+    "chain_name": "dymension",
+    "api": ["https://test-dymension-api.kynraze.com","https://api-t.dymension.nodestake.top"],
+    "rpc": ["https://test-dymension-rpc.kynraze.com","https://rpc-t.dymension.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.8",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "dym",
+    "logo": "/logos/dymension.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "udym",
+        "symbol": "DYM",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/dymension.png"
+    }]
+}
