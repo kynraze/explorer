@@ -21,7 +21,7 @@
     },
     "assets": [{
         "base": "ario,arst",
-        "symbol": ["RIO", "RST"],
+        "symbol": "",
         "exponent": "18",
         "coingecko_id": "realio-network",
         "logo": "/logos/realio.png"
