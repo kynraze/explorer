@@ -1,8 +1,8 @@
 {
     "chain_name": "kynraze",
     "coingecko": "",
-    "api": ["https://kyn-api.kynraze.com"],
-    "rpc": ["https://kyn-rpc.kynraze.com"],
+    "api": ["https://kynhub-api.kynraze.com"],
+    "rpc": ["https://kynhub-rpc.kynraze.com"],
     "sdk_version": "0.46.13",
     "coin_type": 60,
     "min_tx_fee": "5000000000000000",
