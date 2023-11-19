@@ -1,6 +1,6 @@
 {
     "chain_name": "kynraze",
-    "api": ["http://5.9.61.78:40317"],
+    "api": ["https://kynhub-api.kynraze.com"],
     "rpc": ["https://rpc-kynhub.kynraze.com"],
     "sdk_version": "0.46.13",
     "coin_type": 60,
