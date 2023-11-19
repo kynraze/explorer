@@ -1,7 +1,7 @@
 {
     "chain_name": "kynraze",
     "coingecko": "",
-    "api": ["https://kynhub-api.kynraze.com"],
+    "api": ["https://kyn-api.kynraze.com"],
     "rpc": ["https://kynhub-rpc.kynraze.com"],
     "sdk_version": "0.46.13",
     "coin_type": 60,
