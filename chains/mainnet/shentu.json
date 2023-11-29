@@ -1,0 +1,26 @@
+{
+    "chain_name": "shentu",
+    "coingecko": "",
+    "api": ["https://shentu-api.kynraze.com","https://rest.cosmos.directory/shentu"],
+    "rpc": ["https://shentu-rpc.kynraze.com","https://rpc.cosmos.directory/shentu"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.14",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "shentu",
+    "logo": "/logos/shentu.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "keplr_price_step": {
+      "low": 0.0125,
+      "average": 0.025,
+      "high": 0.05
+    },
+    "assets": [
+      {
+        "base": "uctk",
+        "symbol": "CTK",
+        "exponent": "6",
+        "logo": "/logos/shentu.png"
+      }
+    ]
+  }
