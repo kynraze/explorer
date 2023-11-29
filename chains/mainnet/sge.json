@@ -1,0 +1,26 @@
+{
+    "chain_name": "sge",
+    "coingecko": "",
+    "api": ["https://sge-api.kynraze.com","https://rest.cosmos.directory/sge"],
+    "rpc": ["https://sge-rpc.kynraze.com","https://rpc.cosmos.directory/quasar"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.14",
+    "coin_type": "118",
+    "min_tx_fee": "0",
+    "addr_prefix": "sge",
+    "logo": "/logos/sge.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "keplr_price_step": {
+      "low": 0.0125,
+      "average": 0.025,
+      "high": 0.05
+    },
+    "assets": [
+      {
+        "base": "usge",
+        "symbol": "SGE",
+        "exponent": "6",
+        "logo": "/logos/sge.png"
+      }
+    ]
+  }
