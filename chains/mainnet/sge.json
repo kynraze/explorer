@@ -21,7 +21,7 @@
         "symbol": "SGE",
         "exponent": "6",
         "logo": "/logos/sge.png",
-        "coingecko": "six-sigma"
+        "coingecko_id": "six-sigma"
       }
     ]
   }
