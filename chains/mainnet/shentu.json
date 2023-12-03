@@ -1,6 +1,6 @@
 {
     "chain_name": "shentu",
-    "coingecko": "",
+    "coingecko": "certik",
     "api": ["https://shentu-api.kynraze.com","https://rest.cosmos.directory/shentu"],
     "rpc": ["https://shentu-rpc.kynraze.com","https://rpc.cosmos.directory/shentu"],
     "snapshot_provider": "",
@@ -20,7 +20,8 @@
         "base": "uctk",
         "symbol": "CTK",
         "exponent": "6",
-        "logo": "/logos/shentu.png"
+        "logo": "/logos/shentu.png",
+        "coingecko": "certik"
       }
     ]
   }
