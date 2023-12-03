@@ -1,6 +1,6 @@
 {
     "chain_name": "sge",
-    "coingecko": "",
+    "coingecko": "six-sigma",
     "api": ["https://sge-api.kynraze.com","https://rest.cosmos.directory/sge"],
     "rpc": ["https://sge-rpc.kynraze.com","https://rpc.cosmos.directory/quasar"],
     "snapshot_provider": "",
@@ -20,7 +20,8 @@
         "base": "usge",
         "symbol": "SGE",
         "exponent": "6",
-        "logo": "/logos/sge.png"
+        "logo": "/logos/sge.png",
+        "coingecko": "six-sigma"
       }
     ]
   }
