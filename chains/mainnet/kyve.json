@@ -8,6 +8,7 @@
     "min_tx_fee": "500",
     "addr_prefix": "kyve",
     "logo": "/logos/kyve.png",
+    "coingecko_id": "kyve-network",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "keplr_price_step": {
       "low": 0.02,
@@ -18,7 +19,7 @@
         "base": "ukyve",
         "symbol": "KYVE",
         "exponent": "6",
-        "coingecko_id": "",
-        "logo": "/logos/kyve.png"
+        "coingecko_id": "kyve-network",
+        "logo": "/logos/kyve.png",
     }]
 }
