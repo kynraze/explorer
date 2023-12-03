@@ -21,7 +21,7 @@
         "symbol": "CTK",
         "exponent": "6",
         "logo": "/logos/shentu.png",
-        "coingecko": "certik"
+        "coingecko_id": "certik"
       }
     ]
   }
