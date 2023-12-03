@@ -1,6 +1,6 @@
 {
     "chain_name": "quasar",
-    "coingecko": "",
+    "coingecko": "quasar-2",
     "api": ["https://rest.cosmos.directory/quasar",""],
     "rpc": ["https://rpc.cosmos.directory/quasar"],
     "snapshot_provider": "",
@@ -20,7 +20,8 @@
         "base": "uqsr",
         "symbol": "QSR",
         "exponent": "6",
-        "logo": "/logos/quasar.png"
+        "logo": "/logos/quasar.png",
+        "coingecko_id": "quasar-2"
       }
     ]
   }
