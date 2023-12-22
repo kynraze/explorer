@@ -1,7 +1,7 @@
 {
     "chain_name": "dora",
     "coingecko": "",
-    "api": ["https://vota-vk-rest.dorafactory.org"],
+    "api": ["https://vota-vk-rest.dorafactory.org","https://api-t.dora.nodestake.top"],
     "rpc": ["https://vota-vk-rpc.dorafactory.org"],
     "sdk_version": "0.47",
     "coin_type": 60,
