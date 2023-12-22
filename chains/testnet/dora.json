@@ -1,0 +1,20 @@
+{
+    "chain_name": "dora",
+    "coingecko": "",
+    "api": ["https://vota-vk-rest.dorafactory.org"],
+    "rpc": ["https://vota-vk-rpc.dorafactory.org"],
+    "sdk_version": "0.47",
+    "coin_type": 60,
+    "min_tx_fee": "5000",
+    "addr_prefix": "dora",
+    "logo": "/logos/dora.png",
+    "assets": [
+      {
+        "base": "peaka",
+        "symbol": "DORA",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/arkeo.png"
+      }
+    ]
+}
