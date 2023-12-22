@@ -1,0 +1,25 @@
+{
+    "chain_name": "stratos",
+    "api": ["https://rest.thestratos.org"],
+    "rpc": ["https://rpc.thestratos.org"],
+    "snapshot_provider": "",
+    "sdk_version": "0.45.9",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "st",
+    "logo": "/logos/startos.png",
+    "coingecko_id": "stratos",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 2000000000000000,
+      "average": 2500000000000000,
+      "high": 4000000000000000
+    },
+    "assets": [{
+        "base": "wei",
+        "symbol": "STOS",
+        "exponent": "18",
+        "coingecko_id": "stratos",
+        "logo": "/logos/stratos.png"
+    }]
+}
