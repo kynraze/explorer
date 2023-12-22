@@ -1,6 +1,6 @@
 {
     "chain_name": "composable",
-    "coingecko": "",
+    "coingecko": "picasso",
     "api": ["https://api.composable.nodestake.top","https://rest.cosmos.directory/composable"],
     "rpc": ["https://rpc.cosmos.directory/composable"],
     "snapshot_provider": "",
