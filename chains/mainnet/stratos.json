@@ -7,7 +7,7 @@
     "coin_type": "60",
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "st",
-    "logo": "/logos/startos.png",
+    "logo": "/logos/stratos.png",
     "coingecko_id": "stratos",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "keplr_price_step": {
