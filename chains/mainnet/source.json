@@ -1,10 +1,10 @@
 {
-    "chain_name": "Aura",
+    "chain_name": "source",
     "api":[
-           "https://rest.cosmos.directory/source",
+           "https://rest.cosmos.directory/source"
           ],
     "rpc":[
-           "https://rpc.cosmos.directory/source",
+           "https://rpc.cosmos.directory/source"
          ],
     "snapshot_provider": "",
     "sdk_version": "0.45.1",
@@ -17,7 +17,7 @@
         "base": "usource",
         "symbol": "SOURCE",
         "exponent": 6,
-        "coingecko_id": "aura-network",
-        "logo": "/logos/aura.png"
+        "coingecko_id": "source",
+        "logo": "/logos/source.png"
     }]
 }
