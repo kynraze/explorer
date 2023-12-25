@@ -1,7 +1,7 @@
 {
     "chain_name": "dora",
-    "api": ["https://vota-vk-rest.dorafactory.org","https://api-t.dora.nodestake.top"],
-    "rpc": ["https://rpc-t.dora.nodestake.top"],
+    "api": ["https://vota-vk-rest.dorafactory.org","https://api-t.dora.nodestake.top","https://t-dora-api.kynraze.com"],
+    "rpc": ["https://rpc-t.dora.nodestake.top","https://t-dora-rpc.kynraze.com"],
     "snapshot_provider": "",
     "sdk_version": "0.46.8",
     "coin_type": "60",
