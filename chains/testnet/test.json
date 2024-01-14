@@ -1,0 +1,19 @@
+{
+    "chain_name": "test",
+    "api": ["https://froopyland.dymension.xyz/23/alternet_9313361-1/rest"],
+    "rpc": ["https://froopyland.dymension.xyz/23/alternet_9313361-1/rpc"],
+    "sdk_version": "0.46.13",
+    "coin_type": 60,
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "ethm",
+    "logo": "/logos/kynraze.png",
+    "assets": [
+      {
+        "base": "uFF",
+        "symbol": "FF",
+        "exponent": 18,
+        "coingecko_id": "",
+        "logo": "/logos/kynraze.png"
+      }
+    ]
+}
