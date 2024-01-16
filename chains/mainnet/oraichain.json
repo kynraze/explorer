@@ -10,13 +10,13 @@
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "orai",
-    "logo": "/logos/oraichain.jpg",
+    "logo": "/logos/oraichain.png",
     "keplr_features": ["ibc-transfer", "ibc-go"],
     "assets": [{
         "base": "orai",
         "symbol": "ORAI",
         "exponent": "6",
         "coingecko_id": "oraichain-token",
-        "logo": "/logos/oraichain.jpg"
+        "logo": "/logos/oraichain.png"
     }]
 }
