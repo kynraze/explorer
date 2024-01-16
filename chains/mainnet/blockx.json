@@ -1,0 +1,25 @@
+{
+    "chain_name": "blockx",
+    "api": ["https://blockx-api.kynraze.com","https://rest.cosmos.directory/blockx"],
+    "rpc": ["https://blockx-rpc.kynraze.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "blockx",
+    "logo": "/logos/blockx.png",
+    "coingecko_id": "",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 2000000000000000,
+      "average": 2500000000000000,
+      "high": 4000000000000000
+    },
+    "assets": [{
+        "base": "abcx",
+        "symbol": "BCX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/blockx.png"
+    }]
+}
