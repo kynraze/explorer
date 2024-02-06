@@ -8,7 +8,7 @@
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "dym",
     "logo": "/logos/dymension.png",
-    "coingecko_id": "",
+    "coingecko_id": "dymension",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "keplr_price_step": {
       "low": 20000000000,
@@ -19,7 +19,7 @@
         "base": "adym",
         "symbol": "DYM",
         "exponent": "18",
-        "coingecko_id": "",
+        "coingecko_id": "dymension",
         "logo": "/logos/dymension.png"
     }]
 }
