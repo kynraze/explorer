@@ -7,14 +7,14 @@
     "coin_type": 60,
     "min_tx_fee": "8000",
     "addr_prefix": "swtr",
-    "logo": "/logos/swtr.png",
+    "logo": "/logos/swisstronik.png",
     "assets": [
       {
         "base": "uswtr",
         "symbol": "SWTR",
         "exponent": 18,
         "coingecko_id": "",
-        "logo": "/logos/swtr.png"
+        "logo": "/logos/swisstronik.png"
       }
     ]
 }
