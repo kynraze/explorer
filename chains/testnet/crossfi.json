@@ -5,7 +5,7 @@
     "snapshot_provider": "",
     "sdk_version": "0.46.8",
     "coin_type": "60",
-    "min_tx_fee": "1000000000000",
+    "min_tx_fee": "10000000000000",
     "addr_prefix": "dym",
     "logo": "/logos/crossfi.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
