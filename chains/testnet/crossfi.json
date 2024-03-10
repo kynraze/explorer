@@ -1,0 +1,19 @@
+{
+    "chain_name": "crossfi",
+    "api": ["https://testnet-crossfi-api.kynraze.com"],
+    "rpc": ["https://testnet-crossfi-rpc.kynraze.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.8",
+    "coin_type": "60",
+    "min_tx_fee": "1000000000000",
+    "addr_prefix": "dym",
+    "logo": "/logos/crossfi.png",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "mpx",
+        "symbol": "MPX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/crossi.png"
+    }]
+}
