@@ -20,7 +20,7 @@
       "high": 40000000000
     },
     "assets": [{
-        "base": "ario,arst",
+        "base": "stake",
         "symbol": "RIO",
         "exponent": "18",
         "coingecko_id": "realio-network",
