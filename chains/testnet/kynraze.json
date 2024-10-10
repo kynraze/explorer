@@ -1,11 +1,11 @@
 {
     "chain_name": "kynraze",
-    "api": ["https://api-kynhub.kynraze.com"],
-    "rpc": ["https://rpc-kynhub.kynraze.com"],
+    "api": ["https://play-api.kynraze.com"],
+    "rpc": ["https://play-rpc.kynraze.com"],
     "sdk_version": "0.46.13",
     "coin_type": 60,
     "min_tx_fee": "5000000000000000",
-    "addr_prefix": "ethm",
+    "addr_prefix": "kynh",
     "logo": "/logos/kynraze.png",
     "assets": [
       {
