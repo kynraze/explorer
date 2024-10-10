@@ -9,8 +9,8 @@
     "logo": "/logos/kynraze.png",
     "assets": [
       {
-        "base": "uKYN",
-        "symbol": "KYN",
+        "base": "akynh",
+        "symbol": "KYNH",
         "exponent": 18,
         "coingecko_id": "",
         "logo": "/logos/kynraze.png"
