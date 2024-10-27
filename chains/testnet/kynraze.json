@@ -5,12 +5,12 @@
     "sdk_version": "0.46.13",
     "coin_type": 60,
     "min_tx_fee": "5000000000000000",
-    "addr_prefix": "kynh",
+    "addr_prefix": "kze",
     "logo": "/logos/kynraze.png",
     "assets": [
       {
-        "base": "akynh",
-        "symbol": "KYNH",
+        "base": "akze",
+        "symbol": "KZE",
         "exponent": 18,
         "coingecko_id": "",
         "logo": "/logos/kynraze.png"
