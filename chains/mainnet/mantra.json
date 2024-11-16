@@ -1,0 +1,22 @@
+{
+    "chain_name": "Mantra",
+    "api": [
+        "https://api.mantrachain.io"
+    ],
+    "rpc": [
+        "https://rpc.mantrachain.io"
+    ],
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "mantra",
+    "logo": "/logos/mantra.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "assets": [{
+        "base": "uom",
+        "symbol": "OM",
+        "exponent": "6",
+        "coingecko_id": "mantra-dao",
+        "logo": "/logos/mantra.png"
+    }]
+}
