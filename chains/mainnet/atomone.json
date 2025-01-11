@@ -1,0 +1,22 @@
+{
+    "chain_name": "Atomone",
+    "api": [
+        "https://atomone-api.kynraze.com"
+    ],
+    "rpc": [
+        "https://atomone-rpc.kynraze.com"
+    ],
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "atone",
+    "logo": "/logos/atomone.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "assets": [{
+        "base": "uatone",
+        "symbol": "ATONE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/atomone.png"
+    }]
+}
