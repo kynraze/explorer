@@ -1,0 +1,22 @@
+{
+    "chain_name": "Selfchain",
+    "api": [
+        "https://api.selfchain.io"
+    ],
+    "rpc": [
+        "https://rpc.selfchain.io"
+    ],
+    "sdk_version": "0.45.15",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "self",
+    "logo": "/logos/self.png",
+    "keplr_features": ["ibc-transfer", "ibc-go"],
+    "assets": [{
+        "base": "uslf",
+        "symbol": "SLF",
+        "exponent": "6",
+        "coingecko_id": "self-chain",
+        "logo": "/logos/self.png"
+    }]
+}
