@@ -1,7 +1,7 @@
 {
     "chain_name": "kynraze",
-    "api": ["https://play-api.kynraze.com"],
-    "rpc": ["https://play-rpc.kynraze.com"],
+    "api": ["https://play-api.kynraze.com","https://mainnet-api.kynraze.com"],
+    "rpc": ["https://play-rpc.kynraze.com","https://mainnet-rpc.kynraze.com"],
     "sdk_version": "0.46.13",
     "coin_type": 60,
     "min_tx_fee": "5000000000000000",
